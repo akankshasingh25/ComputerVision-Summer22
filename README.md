@@ -1,3 +1,3 @@
 # DSE312: Computer Vision
-## Under Dr. Bhavna Rajashekaran
-Coursework: Assignments, Practice coding, Assessments
+Under Dr. Bhavna Rajasekaran
+Coursework: Assignment/Coding Practice/Assessment
